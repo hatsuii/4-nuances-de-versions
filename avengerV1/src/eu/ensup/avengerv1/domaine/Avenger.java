@@ -36,6 +36,8 @@ public class Avenger {
 	public String getPouvoir() {
 		return pouvoir;
 	}
+	
+	
 	public void setPouvoir(String pouvoir) {
 		this.pouvoir = pouvoir;
 	}
